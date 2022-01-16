@@ -1,0 +1,87 @@
+1
+Charming Pink Colored Partywea
+Designer
+pink
+4
+899
+-
+ 
+ 
+ 
+2
+Champagne Color Georgette Sare
+Designer
+Georgette
+3
+1149
+-
+ 
+ 
+ 
+3
+Trendy Beige Colored Partywear
+Designer
+orange
+4
+699
+-
+ 
+ 
+ 
+4
+Glowing Orange Colored Partywe
+Designer
+orange
+3
+899
+-
+ 
+ 
+ 
+5
+Charming Sky Blue Colored Casu
+Designer
+blue
+4
+1599
+-
+ 
+ 
+ 
+6
+Sizzling Navy Blue Partywear D
+Designer
+Navy Blue
+3
+1380
+-
+ 
+ 
+ 
+7
+Alluring Rama Green Colored De
+Designer
+green
+2
+4499
+-
+ 
+ 
+ 
+8
+Mesmerising Blush Pink Colored
+Designer
+Blush Pink
+3
+4499
+-
+ 
+ 
+ 
+9
+abc
+xyz
+red
+4
+4500
+abc
